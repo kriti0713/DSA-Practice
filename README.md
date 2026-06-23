@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -57,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kriti0713/DSA-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Greedy
