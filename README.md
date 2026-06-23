@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
