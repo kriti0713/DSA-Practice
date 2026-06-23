@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kriti0713/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -49,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
