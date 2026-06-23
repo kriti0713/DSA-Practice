@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/kriti0713/DSA-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Greedy
 |  |
 | ------- |
