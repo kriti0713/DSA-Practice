@@ -58,6 +58,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
+| [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
@@ -65,6 +66,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
@@ -92,4 +94,8 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
