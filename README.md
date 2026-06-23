@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
