@@ -27,6 +27,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kriti0713/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -40,6 +41,7 @@
 | [0141-linked-list-cycle](https://github.com/kriti0713/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
