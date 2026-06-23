@@ -5,10 +5,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
