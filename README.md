@@ -22,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/kriti0713/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -48,11 +49,13 @@
 | [0141-linked-list-cycle](https://github.com/kriti0713/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
