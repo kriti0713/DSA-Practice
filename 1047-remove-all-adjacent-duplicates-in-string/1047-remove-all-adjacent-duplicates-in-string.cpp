@@ -1,7 +1,7 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        string result = "";
+        string result ;
 
         for(char c : s){
             if(!result.empty() && result.back() == c){
