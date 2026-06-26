@@ -59,6 +59,7 @@
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
+| [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
