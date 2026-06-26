@@ -32,6 +32,7 @@
 | [0020-valid-parentheses](https://github.com/kriti0713/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kriti0713/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kriti0713/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -75,6 +76,7 @@
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
+| [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kriti0713/DSA-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Greedy
