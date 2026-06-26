@@ -75,6 +75,7 @@
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -104,6 +105,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
+| [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
