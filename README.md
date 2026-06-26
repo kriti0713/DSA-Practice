@@ -34,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kriti0713/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3019-number-of-changing-keys](https://github.com/kriti0713/DSA-Practice/tree/master/3019-number-of-changing-keys) |
 ## Stack
@@ -52,6 +53,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/kriti0713/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
