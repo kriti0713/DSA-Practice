@@ -80,6 +80,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
 ## Memoization
 |  |
 | ------- |
