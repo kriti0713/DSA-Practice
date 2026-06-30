@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
@@ -182,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kriti0713/DSA-Practice/tree/master/0198-house-robber) |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
