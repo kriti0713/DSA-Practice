@@ -91,6 +91,7 @@
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
@@ -189,6 +190,7 @@
 | [0198-house-robber](https://github.com/kriti0713/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
