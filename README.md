@@ -82,6 +82,7 @@
 | [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/kriti0713/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0213-house-robber-ii) |
@@ -111,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -187,6 +189,7 @@
 | [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kriti0713/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
