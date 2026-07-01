@@ -102,6 +102,7 @@
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kriti0713/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kriti0713/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kriti0713/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Memoization
 |  |
 | ------- |
