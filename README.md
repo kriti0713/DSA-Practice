@@ -73,6 +73,7 @@
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kriti0713/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kriti0713/DSA-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/kriti0713/DSA-Practice/tree/master/2652-sum-multiples) |
@@ -121,6 +122,7 @@
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kriti0713/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kriti0713/DSA-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Greedy
 |  |
