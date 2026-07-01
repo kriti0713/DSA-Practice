@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kriti0713/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/kriti0713/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kriti0713/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kriti0713/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -80,6 +82,7 @@
 | [0014-longest-common-prefix](https://github.com/kriti0713/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/kriti0713/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriti0713/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +146,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kriti0713/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -190,6 +194,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kriti0713/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
