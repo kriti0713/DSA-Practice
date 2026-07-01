@@ -1,38 +1,40 @@
 class Solution {
 public:
-    int m;
-    int n;
-    vector<int> directions = {-1, 0, 1};
+    int dfs(int r, int c, vector<vector<int>>& grid, vector<vector<int>>& memo) {
+        int m = grid.size();
+        int n = grid[0].size();
 
-    int dfs(int row, int col, vector<vector<int>>& grid, vector<vector<int>>& t) {
-
-        if(t[row][col] != -1){
-            return t[row][col];
+        if(memo[r][c] != -1){
+            return memo[r][c];
         }
 
+        int maxMoves = 0;
+        int dir[] = {-1, 0, 1};
 
-        int moves = 0;
-        for (int &dir : directions) {
-            int newrow = row + dir;
-            int newcol = col + 1;
+        for(int d : dir){
+            int nextR = r + d;
+            int nextC = c + 1;
 
-            if (newrow >= 0 && newrow < m && newcol >= 0 && newcol < n && grid[newrow][newcol] > grid[row][col]) {
-                    moves = max(moves, 1 + dfs(newrow, newcol, grid, t));
-                }
+        if (nextR >= 0 && nextR < m && nextC < n && grid[nextR][nextC] > grid[r][c]) {
+              maxMoves = max(maxMoves, 1 + dfs(nextR, nextC, grid, memo));
         }
-        return t[row] [col] = moves;
+        }
+        return memo[r][c] = maxMoves;
+
     }
+   
     int maxMoves(vector<vector<int>>& grid) {
-         m = grid.size();
-         n = grid[0].size();
 
+        int m = grid.size();
+        int n = grid[0].size();
         int result = 0;
 
-        vector<vector<int>> t(m, vector<int>(n, -1));
+        vector<vector<int>> memo(m, vector<int>(n, -1));
 
         for (int i = 0; i < m; i++) {
-            result = max(result, dfs(i, 0, grid, t));
+            result = max(result, dfs(i, 0, grid, memo));
         }
         return result;
+       
     }
 };
