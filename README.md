@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/kriti0713/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/kriti0713/DSA-Practice/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kriti0713/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -101,6 +102,7 @@
 | [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kriti0713/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0474-ones-and-zeroes](https://github.com/kriti0713/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kriti0713/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -215,6 +217,7 @@
 | [0213-house-robber-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kriti0713/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
+| [0474-ones-and-zeroes](https://github.com/kriti0713/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kriti0713/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kriti0713/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
