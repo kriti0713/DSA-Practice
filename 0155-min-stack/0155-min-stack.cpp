@@ -8,17 +8,17 @@ public:
     
     void push(int value) {
         mainStack.push(value);
-        if (minStack.empty()) {
+       if (minStack.empty() || value <= minStack.top()) {
             minStack.push(value);
-        } else {
-            minStack.push(min(value, minStack.top()));
         }
         
     }
     
     void pop() {
+       if (mainStack.top() == minStack.top()) {
+            minStack.pop();
+        }
         mainStack.pop();
-        minStack.pop();
         
     }
     
