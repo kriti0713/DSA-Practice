@@ -72,6 +72,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/kriti0713/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/kriti0713/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
@@ -114,6 +115,7 @@
 | [0189-rotate-array](https://github.com/kriti0713/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kriti0713/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/kriti0713/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kriti0713/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kriti0713/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/kriti0713/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/3024-type-of-triangle) |
