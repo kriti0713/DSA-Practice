@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kriti0713/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kriti0713/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/kriti0713/DSA-Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kriti0713/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -217,6 +218,7 @@
 | [0053-maximum-subarray](https://github.com/kriti0713/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/kriti0713/DSA-Practice/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/kriti0713/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriti0713/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
