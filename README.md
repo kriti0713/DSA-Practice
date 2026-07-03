@@ -192,6 +192,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
+| [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,4 +258,12 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
