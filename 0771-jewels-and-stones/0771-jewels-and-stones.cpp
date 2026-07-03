@@ -1,13 +1,22 @@
 class Solution {
 public:
+    
     int numJewelsInStones(string jewels, string stones) {
-        if (stones.empty()) {
-            return 0;
+
+     bool isJewel[128] = {false};
+     
+       for (char j : jewels) {
+            isJewel[j] = true;
         }
 
-        int isJewel = jewels.contains(stones[0]) ? 1 : 0;
-
-        return isJewel + numJewelsInStones(jewels, stones.substr(1));
+        int count = 0;
+        for (char s : stones) {
+            if (isJewel[s]) {
+                count++;
+            }
+        }
+        
+        return count;
         
     }
 };
