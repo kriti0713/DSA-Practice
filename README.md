@@ -58,6 +58,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/kriti0713/DSA-Practice/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
@@ -174,6 +175,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kriti0713/DSA-Practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
