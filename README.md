@@ -39,6 +39,7 @@
 | [0091-decode-ways](https://github.com/kriti0713/DSA-Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kriti0713/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/kriti0713/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/kriti0713/DSA-Practice/tree/master/0474-ones-and-zeroes) |
@@ -79,6 +80,7 @@
 | [0189-rotate-array](https://github.com/kriti0713/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/kriti0713/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kriti0713/DSA-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kriti0713/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/kriti0713/DSA-Practice/tree/master/0273-integer-to-english-words) |
 ## Sorting
 |  |
 | ------- |
