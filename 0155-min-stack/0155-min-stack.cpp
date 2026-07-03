@@ -1,6 +1,6 @@
 class MinStack {
-    stack<int> mainStack;
-    stack<int> minStack;
+    std::stack<int> mainStack;
+    std::stack<int> minStack;
 public:
     MinStack() {
         
