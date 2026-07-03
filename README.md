@@ -42,6 +42,7 @@
 | [0402-remove-k-digits](https://github.com/kriti0713/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/kriti0713/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/kriti0713/DSA-Practice/tree/master/0520-detect-capital) |
+| [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kriti0713/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/kriti0713/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -66,6 +67,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kriti0713/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -110,6 +112,7 @@
 | [0485-max-consecutive-ones](https://github.com/kriti0713/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kriti0713/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/kriti0713/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2560-house-robber-iv](https://github.com/kriti0713/DSA-Practice/tree/master/2560-house-robber-iv) |
@@ -248,4 +251,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kriti0713/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
