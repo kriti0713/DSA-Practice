@@ -130,6 +130,7 @@
 | [0819-most-common-word](https://github.com/kriti0713/DSA-Practice/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/kriti0713/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/kriti0713/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kriti0713/DSA-Practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/kriti0713/DSA-Practice/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
@@ -223,6 +224,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kriti0713/DSA-Practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kriti0713/DSA-Practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0337-house-robber-iii](https://github.com/kriti0713/DSA-Practice/tree/master/0337-house-robber-iii) |
 | [0474-ones-and-zeroes](https://github.com/kriti0713/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kriti0713/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kriti0713/DSA-Practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/kriti0713/DSA-Practice/tree/master/2560-house-robber-iv) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kriti0713/DSA-Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -269,6 +273,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kriti0713/DSA-Practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/kriti0713/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
