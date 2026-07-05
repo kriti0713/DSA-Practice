@@ -39,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/kriti0713/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kriti0713/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kriti0713/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/kriti0713/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/kriti0713/DSA-Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kriti0713/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
