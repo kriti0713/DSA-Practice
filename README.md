@@ -89,6 +89,7 @@
 | [0066-plus-one](https://github.com/kriti0713/DSA-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kriti0713/DSA-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/kriti0713/DSA-Practice/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/kriti0713/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kriti0713/DSA-Practice/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/kriti0713/DSA-Practice/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/kriti0713/DSA-Practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
