@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/kriti0713/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kriti0713/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kriti0713/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kriti0713/DSA-Practice/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/kriti0713/DSA-Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kriti0713/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/kriti0713/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/kriti0713/DSA-Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kriti0713/DSA-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kriti0713/DSA-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kriti0713/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kriti0713/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
@@ -148,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kriti0713/DSA-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kriti0713/DSA-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kriti0713/DSA-Practice/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kriti0713/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -202,6 +205,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kriti0713/DSA-Practice/tree/master/0067-add-binary) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
