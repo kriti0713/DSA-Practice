@@ -15,6 +15,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kriti0713/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 | [0189-rotate-array](https://github.com/kriti0713/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kriti0713/DSA-Practice/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kriti0713/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
