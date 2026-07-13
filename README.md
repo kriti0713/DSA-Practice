@@ -120,6 +120,7 @@
 | [0027-remove-element](https://github.com/kriti0713/DSA-Practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kriti0713/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kriti0713/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kriti0713/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kriti0713/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -322,5 +323,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/kriti0713/DSA-Practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
