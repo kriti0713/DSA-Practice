@@ -345,4 +345,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/kriti0713/DSA-Practice/tree/master/0089-gray-code) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kriti0713/DSA-Practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
