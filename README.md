@@ -142,6 +142,7 @@
 | [0189-rotate-array](https://github.com/kriti0713/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kriti0713/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kriti0713/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kriti0713/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kriti0713/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/kriti0713/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kriti0713/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -201,6 +202,7 @@
 | [0049-group-anagrams](https://github.com/kriti0713/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kriti0713/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kriti0713/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kriti0713/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kriti0713/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kriti0713/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
@@ -225,6 +227,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kriti0713/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/kriti0713/DSA-Practice/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -328,6 +331,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kriti0713/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kriti0713/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kriti0713/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -352,4 +356,8 @@
 | [0176-second-highest-salary](https://github.com/kriti0713/DSA-Practice/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kriti0713/DSA-Practice/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/kriti0713/DSA-Practice/tree/master/0178-rank-scores) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kriti0713/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
