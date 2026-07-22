@@ -243,6 +243,7 @@
 | [0101-symmetric-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -256,6 +257,7 @@
 | [0101-symmetric-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -270,6 +272,7 @@
 | [0101-symmetric-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriti0713/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -281,6 +284,7 @@
 | [0100-same-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kriti0713/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kriti0713/DSA-Practice/tree/master/0112-path-sum) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/kriti0713/DSA-Practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Dynamic Programming
